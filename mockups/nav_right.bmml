@@ -1,0 +1,98 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="684" measuredH="485" mockupW="642" mockupH="445">
+  <controls>
+    <control controlID="49" controlTypeID="__group__" x="404" y="40" w="280" h="445" measuredW="280" measuredH="445" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="280" h="445" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="49"/>
+        <control controlID="1" controlTypeID="__group__" x="13" y="15" w="254" h="253" measuredW="254" measuredH="253" zOrder="1" locked="false" isInGroup="49">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="254" h="102" measuredW="254" measuredH="102" zOrder="0" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="239" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <icon>AsteriskIcon%7Cmedium</icon>
+                    <labelPosition>right</labelPosition>
+                    <size>20</size>
+                    <text>%5BYou%20have%20%7Bx%7D%20new%20task%5D</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="41" y="32" w="213" h="70" measuredW="100" measuredH="126" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>none</borderStyle>
+                    <text>%5BOracle%20support%20-%20IM-XXXXXX%5D%0A%5BGestion%20acc%E8s%20-%20Module%20Outlook%5D%0A%5BGestion%20acc%E8s%20-%20Module%20Env%5D</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="__group__" x="0" y="117" w="228" h="84" measuredW="228" measuredH="84" zOrder="1" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="228" measuredH="32" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>CalendarIcon%7Cmedium</icon>
+                    <labelPosition>right</labelPosition>
+                    <size>20</size>
+                    <text>%5BPlanning%20managment%5D</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="__group__" x="38" y="32" w="98" h="52" measuredW="98" measuredH="52" zOrder="1" locked="false" isInGroup="1">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="98" measuredH="24" zOrder="0" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <icon>SpinningIcon%7Csmall</icon>
+                        <labelPosition>right</labelPosition>
+                        <text>%5BCreate%20task%5D</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="28" w="-1" h="-1" measuredW="82" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+                      <controlProperties>
+                        <icon>NumberedListIcon%7Csmall</icon>
+                        <labelPosition>right</labelPosition>
+                        <text>%5BMy%20tasks%5D</text>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="221" w="-1" h="-1" measuredW="111" measuredH="32" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ChartColumnIcon%7Cmedium</icon>
+                <labelPosition>right</labelPosition>
+                <size>20</size>
+                <text>%5BMy%20KPIs%5D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="50" controlTypeID="__group__" x="42" y="40" w="280" h="445" measuredW="280" measuredH="445" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="280" h="445" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="50"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="10" y="15" w="-1" h="-1" measuredW="239" measuredH="32" zOrder="1" locked="false" isInGroup="50">
+          <controlProperties>
+            <icon>AsteriskIcon%7Cmedium</icon>
+            <labelPosition>right</labelPosition>
+            <size>20</size>
+            <text>%5BYou%20have%20%7Bx%7D%20new%20task%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="10" y="59" w="-1" h="-1" measuredW="228" measuredH="32" zOrder="2" locked="false" isInGroup="50">
+          <controlProperties>
+            <icon>CalendarIcon%7Cmedium</icon>
+            <labelPosition>right</labelPosition>
+            <size>20</size>
+            <text>%5BPlanning%20managment%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="10" y="102" w="-1" h="-1" measuredW="111" measuredH="32" zOrder="3" locked="false" isInGroup="50">
+          <controlProperties>
+            <icon>ChartColumnIcon%7Cmedium</icon>
+            <labelPosition>right</labelPosition>
+            <size>20</size>
+            <text>%5BMy%20KPIs%5D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

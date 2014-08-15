@@ -1,0 +1,41 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="412" measuredH="273" mockupW="352" mockupH="253">
+  <controls>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="20" w="352" h="253" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="__group__" x="86" y="71" w="300" h="162" measuredW="300" measuredH="162" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="300" h="106" measuredW="300" measuredH="106" zOrder="0" locked="false" isInGroup="29">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="300" h="43" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>center</align>
+                <text>Welcome%20to%20avy%2C%20your%20task%20planner.%20%0AIn%20order%20to%20access%20the%20application%2C%20please%20log%20in.</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="51" w="145" h="-1" measuredW="78" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Username%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="155" y="51" w="145" h="-1" measuredW="70" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Password</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="84" w="188" h="22" measuredW="188" measuredH="22" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <state>selected</state>
+                <text>remind%20me%20/%20keep%20me%20logged</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="62" y="121" w="176" h="41" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="29">
+          <controlProperties>
+            <color>13576743</color>
+            <text>Use%20your%20windows%20account%20/%20password%20to%20log%20in</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
