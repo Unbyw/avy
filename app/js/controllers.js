@@ -1,7 +1,7 @@
 /**
  * Created by FORTIZ on 8/1/14.
  */
-var avyControllers = angular.modules();
+var avyControllers = angular.modules('avyControllers', []);
 
 avyControllers.controller('taskListCtrl', '$scope', '$http', function($scope, $http){
 
